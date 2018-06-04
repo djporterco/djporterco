@@ -1,3 +1,13 @@
+# Getting on the hot list on Reddit.com
+
+- [Executive Summary](Executive_summary.ipynb)
+- [EDA](EDA.ipynb)
+- [Modeling](Modeling.ipynb)
+- [Ploting](Plots.ipynb)
+- [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSEtE0AzpN7kAx709bnEKVyLVhJNvYOUi-1RFnPlQon9soV0YgjhCHKm-OndGiAhu32wLTeVbxWHrQC/pub?start=true&loop=false&delayms=3000)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/djporterco/djporterco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
